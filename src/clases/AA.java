@@ -1,4 +1,4 @@
-package principal;
+package clases;
 
 public class AA {
 
