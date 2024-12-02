@@ -7,7 +7,7 @@ public class Prueba {
 
 		int contador;
 		String nombre;
-		siso
+		siso2
 	}
 
 }
